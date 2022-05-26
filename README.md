@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @naher, you can learn about me at https://www.linkedin.com/in/hernanleoni/
+- 👀 I’m interested in software, music and technology.
+- 🌱 I’m currently learning flutter, react and guitar playing.
+- 💞️ I’m looking to collaborate on... well, I'm open to suggestions and we can check my availability. 
+- 📫 How to reach me? just message me in linkedin.
